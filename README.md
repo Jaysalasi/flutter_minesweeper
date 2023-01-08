@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+A Minesweeper game made with flutter
+
+credit to "https://www.youtube.com/watch?v=hrvtfNlLcF4&t=39s"
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
